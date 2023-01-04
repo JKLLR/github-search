@@ -1,4 +1,4 @@
-# github-stepper
+# github-search
 
 ## Project setup
 ```
